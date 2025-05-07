@@ -17,7 +17,7 @@
         "url": "https://github.com/michaelliao/learn-javascript.git"
     },
     "dependencies": {
-        "koa": "2.8.1",
+        "koa": "2.16.1",
         "koa-bodyparser": "^4.2.1",
         "koa-router": "^7.4.0",
         "mime": "^2.4.4",
